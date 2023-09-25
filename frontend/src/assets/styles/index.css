@@ -1,0 +1,33 @@
+.card{
+    margin: 10px;
+    padding: 20px;
+}
+
+.product-price{
+    font-weight: bold   ;
+}
+
+.headline{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 20px;
+    font-weight: bold;
+}
+.rating-stars {
+
+    color: #f0f011;
+
+}
+
+.rating-text{
+    color: black;
+    margin-left: 30px;
+    font-size: small;
+}
+
+.in-line{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
